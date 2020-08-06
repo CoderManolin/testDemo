@@ -54,6 +54,8 @@ git remote add origin https://github.com/Ming-Coder/testDemo.git
 git push -u origin master  
 【注】提交过程，可能需要你输入用户名和密码
 
+14.git clone
+从远程仓库，克隆项目到本地
 
 
 
