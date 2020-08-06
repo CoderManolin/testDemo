@@ -47,6 +47,7 @@ git reset --hard 版本号
 我的电脑=>用户=>用户名文件夹=>.ssh(隐藏文件)=>xxx.pub(存有密钥)
 
 
+
 13.github账户配置密匙  
 git remote add origin https://github.com/Ming-Coder/testDemo.git  
 
