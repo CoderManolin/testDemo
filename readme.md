@@ -29,5 +29,8 @@ git diff
 
 8.clear 清屏操作  
 
+9.git log  
+  查看已经提交到暂存区的历史版本
+
 
 
