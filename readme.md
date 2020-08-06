@@ -14,4 +14,20 @@ git config --global user.email "github注册邮箱"
 
 4.工作区=>暂存区  
    git add 文件  
-git add * 提交所有文件
+git add * 提交所有文件   
+
+git commit -m "这一次提交的描述"
+
+5.查看当前工作区的状态  
+git status  
+
+6.从暂存区恢复文件到工作区  
+git checkout  
+
+7.查看工作区和暂存区版本区别  
+git diff  
+
+8.clear 清屏操作  
+
+
+
