@@ -58,4 +58,9 @@ git push -u origin master
 从远程仓库，克隆项目到本地
 
 
+15.git pull  
+从远程仓库同步本地代码(更新)
+
+
+
 
