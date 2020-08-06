@@ -38,3 +38,21 @@ git reset --hard 版本号
 
 
 
+11.生成SSH密钥
+    ssh-keygen -t rsa -C "你github邮箱账号"  
+
+12.windows电脑查找文件:  
+
+
+我的电脑=>用户=>用户名文件夹=>.ssh(隐藏文件)=>xxx.pub(存有密钥)
+
+
+13.github账户配置密匙  
+git remote add origin https://github.com/Ming-Coder/testDemo.git  
+
+git push -u origin master  
+【注】提交过程，可能需要你输入用户名和密码
+
+
+
+
